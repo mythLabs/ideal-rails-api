@@ -1,3 +1,5 @@
+module Api
+  module V1
 class ArticlesController < ApplicationController
   before_action :set_article, only: [:show, :update, :destroy]
 
@@ -48,4 +50,6 @@ class ArticlesController < ApplicationController
     def article_params
       params.require(:article).permit(:title, :description)
     end
+end
+end
 end
