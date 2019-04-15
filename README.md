@@ -1,24 +1,18 @@
-# README
+# Ideal Rails API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##Features
 
-Things you may want to cover:
+* Serialization
 
-* Ruby version
+* CORS
 
-* System dependencies
+* API Versioning
 
-* Configuration
+* API Throttling
 
-* Database creation
+* Authentication - Authorization - To Do
 
-* Database initialization
+* Testing - To Do
 
-* How to run the test suite
+* Swagger/API Documentation - To Do
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
