@@ -10,7 +10,9 @@
 
 * API Throttling
 
-* Authentication - Authorization - To Do
+* Authentication
+
+* Authorization - To Do
 
 * Testing - To Do
 
